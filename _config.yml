@@ -1,3 +1,4 @@
 name: HUE HUE
 markdown: redcarpet
 pygments: true
+baseurl: /blog
